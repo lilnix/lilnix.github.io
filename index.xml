@@ -86,6 +86,7 @@ encoded &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; urllib&lt;span 
 &lt;li&gt;Public tools are good but if I wrote my own exploit code in Java, I would find this vulnerability much faster.&lt;/li&gt;
 &lt;li&gt;Always test every functionality, sometimes, you have to scroll the page :)&lt;/li&gt;
 &lt;li&gt;Sometimes, we have to do those boring works too.&lt;/li&gt;
+&lt;li&gt;By default, Burp Intruder encodes the given payloads. But this feature was off in my Burp, although I solved that in my Python script, I figured out that feature was a better solution.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;resources&#34;&gt;Resources&lt;/h2&gt;
 &lt;ul&gt;
